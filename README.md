@@ -29,4 +29,3 @@
 ##### Blog Post Page
 
 ![team-app-1167a9 webflow io_blog_what-will-website-be-like-in-100-years](https://user-images.githubusercontent.com/46372998/210773560-90a17e36-ca71-48c4-9696-b8de88e1df77.png)
-
